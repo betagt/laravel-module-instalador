@@ -1,5 +1,5 @@
 {
-    "name": "betagt/laravel-module-installer",
+    "name": "betagt/laravel-module-instalador",
     "type": "composer-plugin",
     "license": "MIT",
     "autoload": {
