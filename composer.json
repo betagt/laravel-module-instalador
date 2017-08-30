@@ -1,0 +1,19 @@
+{
+    "name": "betagt/laravel-module-installer",
+    "type": "composer-plugin",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Betagt\\LaravelModuleInstaller\\": "src/"
+        }
+    },
+    "extra": {
+        "class": "Betagt\\LaravelModuleInstaller\\LaravelModuleInstallerPlugin"
+    },
+    "require-dev": {
+        "composer/composer": "^1.5"
+    },
+    "require": {
+        "composer-plugin-api": "^1.1"
+    }
+}
