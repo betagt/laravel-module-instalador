@@ -1,6 +1,6 @@
 <?php
 
-namespace Betagt\LaravelModuleInstaller;
+namespace Betagt\LaravelModuleInstalador;
 
 use Composer\Package\PackageInterface;
 use Composer\Installer\LibraryInstaller;

@@ -4,11 +4,11 @@
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "Betagt\\LaravelModuleInstaller\\": "src/"
+            "Betagt\\LaravelModuleInstalador\\": "src/"
         }
     },
     "extra": {
-        "class": "Betagt\\LaravelModuleInstaller\\LaravelModuleInstallerPlugin"
+        "class": "Betagt\\LaravelModuleInstalador\\LaravelModuleInstallerPlugin"
     },
     "require-dev": {
         "composer/composer": "^1.5"

@@ -1,6 +1,6 @@
 <?php
 
-namespace Betagt\LaravelModuleInstaller;
+namespace Betagt\LaravelModuleInstalador;
 
 use Composer\Composer;
 use Composer\IO\IOInterface;
